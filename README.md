@@ -1,1 +1,1 @@
-# ICIT-kp
+# ICIT
